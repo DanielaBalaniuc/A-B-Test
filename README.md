@@ -1,6 +1,6 @@
 # A-B-Test
 
-Advertising agency Test In this little notebook, I'm going to carry out an A/B test to see if there is a difference between the responses of the control and exposed groups.
+Advertising agency Test In this notebook, I'm performing an A/B test to see if there is a difference between the responses of the control and exposed groups.
 
 About this file
 
